@@ -1,0 +1,21 @@
+body {
+  background: #fff8e1; /* light cream */
+  font-family: sans-serif;
+  line-height: 1.6;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  background: blue; /* keep your blue but make text white */
+  color: white;
+  padding: 15px;
+  display: block;
+  border: 4px solid blue;
+  outline: 4px solid black;
+  border-radius: 25px;
+}
+  
+
+
+
